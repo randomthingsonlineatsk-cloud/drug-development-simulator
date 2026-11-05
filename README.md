@@ -2,7 +2,7 @@
 
 Take fictional programs from discovery to NDA/BLA review.
 
-**Live demo:** https://drug-development-simulator.randomthingsonlineatsk.workers.dev (once deployed)
+**Live demo:** https://drug-development-simulator.randomthingsonlineatsk.workers.dev
 
 > This is a fictional, educational demonstration. Do not use it for real patient data, clinical decisions or regulatory submissions.
 
